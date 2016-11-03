@@ -1,4 +1,4 @@
-(ns seven-languages-closure.core)
+(ns seven-languages-clojure.core)
 
 (defn foo
   "I don't do a whole lot."

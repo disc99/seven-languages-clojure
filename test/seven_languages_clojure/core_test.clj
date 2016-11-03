@@ -1,6 +1,6 @@
-(ns seven-languages-closure.core-test
+(ns seven-languages-clojure.core-test
   (:require [clojure.test :refer :all]
-            [seven-languages-closure.core :refer :all]))
+            [seven-languages-clojure.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
